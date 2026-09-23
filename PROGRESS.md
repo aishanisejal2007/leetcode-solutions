@@ -6,3 +6,4 @@
 | 22-09-2026 | Two Sum | Arrays & Strings | Easy | Accepted | ~15 min |
 | 22-09-2026 | Reverse a String | Arrays & Strings | Easy | Accepted | ~15 min |
 | 22-09-2026 | Valid Anagram | Arrays & Strings | Easy | Accepted | ~15 min |
+| 23-09-2026 | Best Time to Buy and Sell Stock | Arrays & Strings | Easy | Accepted | ~15 min |
